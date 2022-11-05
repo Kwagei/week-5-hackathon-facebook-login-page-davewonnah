@@ -20,10 +20,12 @@ body{
     color: blue;
     font-size: 62px;
     margin-top: 90px;
+    
 }
 .one h3{
-    margin-bottom: 15px;
-    padding-bottom: 180px;
+    /* margin-bottom: 15px;
+    padding-bottom: 100px; */
+    /* padding-bottom: 350px; */
 }
 /* .conbtainer .two{
     background-color: rgb(216, 38, 38);
